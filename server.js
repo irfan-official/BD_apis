@@ -55,8 +55,8 @@ app.get("/api/bd.district", (req, res) => {
 app.get("/api/bd.division", (req, res) => {
   return res.status(200).json(division);
 });
-app.get("/api/bd.postcode", (req, res) => {
-  return res.status(200).json(postcode);
+app.get("/api/bd.postcode", (req, res) => {`
+  return res.status(200).json(postcode);`
 });
 app.get("/api/bd.upazilas", (req, res) => {
   return res.status(200).json(upazilas);
