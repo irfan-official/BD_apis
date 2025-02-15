@@ -1,0 +1,333 @@
+[
+    {
+      "id": "6",
+      "district_id": "34",
+      "name": "Taltali",
+      "bn_name": "তালতলী"
+    },
+    {
+      "id": "7",
+      "district_id": "35",
+      "name": "Muladi",
+      "bn_name": "মুলারদ"
+    },
+    {
+      "id": "8",
+      "district_id": "35",
+      "name": "Babuganj",
+      "bn_name": "বাবুগঞ্জ"
+    },
+    {
+      "id": "9",
+      "district_id": "35",
+      "name": "Agailjhara",
+      "bn_name": "আগাইলঝিা"
+    },
+    {
+      "id": "10",
+      "district_id": "35",
+      "name": "Barisal Sadar",
+      "bn_name": "বরি াল  দি"
+    },
+    {
+      "id": "11",
+      "district_id": "35",
+      "name": "Bakerganj",
+      "bn_name": "বাশকিগঞ্জ"
+    },
+    {
+      "id": "12",
+      "district_id": "35",
+      "name": "Banaripara",
+      "bn_name": "বািারিপািা"
+    },
+    {
+      "id": "13",
+      "district_id": "35",
+      "name": "Gaurnadi",
+      "bn_name": "গগৌিিদী"
+    },
+    {
+      "id": "14",
+      "district_id": "35",
+      "name": "Hizla",
+      "bn_name": "রহজলা"
+    },
+    {
+      "id": "15",
+      "district_id": "35",
+      "name": "Mehendiganj",
+      "bn_name": "গমশহরদগঞ্জ "
+    },
+    {
+      "id": "16",
+      "district_id": "35",
+      "name": "Wazirpur",
+      "bn_name": "ওয়ারজিপুি"
+    },
+    {
+      "id": "17",
+      "district_id": "36",
+      "name": "Bhola Sadar",
+      "bn_name": "গ ালা  দি"
+    },
+    {
+      "id": "18",
+      "district_id": "36",
+      "name": "Burhanuddin",
+      "bn_name": "বুিহািউরিি"
+    },
+    {
+      "id": "19",
+      "district_id": "36",
+      "name": "Char Fasson",
+      "bn_name": "চি ফযা ি"
+    },
+    {
+      "id": "20",
+      "district_id": "36",
+      "name": "Daulatkhan",
+      "bn_name": "গদৌলতখাি"
+    },
+    {
+      "id": "21",
+      "district_id": "36",
+      "name": "Lalmohan",
+      "bn_name": "লালশমাহি"
+    },
+    {
+      "id": "22",
+      "district_id": "36",
+      "name": "Manpura",
+      "bn_name": "মিপুিা"
+    },
+    {
+      "id": "23",
+      "district_id": "36",
+      "name": "Tazumuddin",
+      "bn_name": "তাজুমুরিি"
+    },
+    {
+      "id": "24",
+      "district_id": "37",
+      "name": "Jhalokati Sadar",
+      "bn_name": "ঝালকাঠি  দি"
+    },
+    {
+      "id": "25",
+      "district_id": "37",
+      "name": "Kathalia",
+      "bn_name": "কা াঁঠারলয়া"
+    },
+    {
+      "id": "26",
+      "district_id": "37",
+      "name": "Nalchity",
+      "bn_name": "িালরচরত"
+    },
+    {
+      "id": "27",
+      "district_id": "37",
+      "name": "Rajapur",
+      "bn_name": "িাজাপুি"
+    },
+    {
+      "id": "28",
+      "district_id": "38",
+      "name": "Bauphal",
+      "bn_name": "বাউফল"
+    },
+    {
+      "id": "29",
+      "district_id": "38",
+      "name": "Dashmina",
+      "bn_name": "দ রমিা"
+    },
+    {
+      "id": "30",
+      "district_id": "38",
+      "name": "Galachipa",
+      "bn_name": "গলারচপা"
+    },
+    {
+      "id": "31",
+      "district_id": "38",
+      "name": "Kalapara",
+      "bn_name": "কালাপািা"
+    },
+    {
+      "id": "32",
+      "district_id": "38",
+      "name": "Mirzaganj",
+      "bn_name": "রমজজ াগঞ্জ "
+    },
+    {
+      "id": "33",
+      "district_id": "38",
+      "name": "Patuakhali Sadar",
+      "bn_name": "পটয়াখালী  দি"
+    },
+    {
+      "id": "34",
+      "district_id": "38",
+      "name": "Dumki",
+      "bn_name": "ডমরক"
+    },
+    {
+      "id": "35",
+      "district_id": "38",
+      "name": "Rangabali",
+      "bn_name": "িাঙ্গাবারল"
+    },
+    {
+      "id": "36",
+      "district_id": "39",
+      "name": "Bhandaria",
+      "bn_name": " যান্ডারিয়া"
+    },
+    {
+      "id": "37",
+      "district_id": "39",
+      "name": "Kaukhali",
+      "bn_name": "কাউখারল"
+    },
+    {
+      "id": "38",
+      "district_id": "39",
+      "name": "Mathbaria",
+      "bn_name": "মাঠবারিয়া"
+    },
+    {
+      "id": "39",
+      "district_id": "39",
+      "name": "Nazirpur",
+      "bn_name": "িারজিপুি"
+    },
+    {
+      "id": "40",
+      "district_id": "39",
+      "name": "Nesarabad",
+      "bn_name": "গি ািাবাদ"
+    },
+    {
+      "id": "41",
+      "district_id": "39",
+      "name": "Pirojpur Sadar",
+      "bn_name": "রপশিাজপুি  দি"
+    },
+    {
+      "id": "42",
+      "district_id": "39",
+      "name": "Zianagar",
+      "bn_name": "রজয়ািগি"
+    },
+    {
+      "id": "43",
+      "district_id": "40",
+      "name": "Bandarban Sadar",
+      "bn_name": "বান্দিবি  দি"
+    },
+    {
+      "id": "44",
+      "district_id": "40",
+      "name": "Thanchi",
+      "bn_name": "থািরচ"
+    },
+    {
+      "id": "45",
+      "district_id": "40",
+      "name": "Lama",
+      "bn_name": "লামা"
+    },
+    {
+      "id": "46",
+      "district_id": "40",
+      "name": "Naikhongchhari",
+      "bn_name": "িাইখিংছরি "
+    },
+    {
+      "id": "47",
+      "district_id": "40",
+      "name": "Ali kadam",
+      "bn_name": "আলী কদম"
+    },
+    {
+      "id": "48",
+      "district_id": "40",
+      "name": "Rowangchhari",
+      "bn_name": "িউয়ািংছরি "
+    },
+    {
+      "id": "49",
+      "district_id": "40",
+      "name": "Ruma",
+      "bn_name": "রুমা"
+    },
+    {
+      "id": "50",
+      "district_id": "41",
+      "name": "Brahmanbaria Sadar",
+      "bn_name": "ব্রাহ্মণবারিয়া  দি"
+    },
+    {
+      "id": "51",
+      "district_id": "41",
+      "name": "Ashuganj",
+      "bn_name": "আশুগঞ্জ"
+    },
+    {
+      "id": "52",
+      "district_id": "41",
+      "name": "Nasirnagar",
+      "bn_name": "িার ি িগি"
+    },
+    {
+      "id": "53",
+      "district_id": "41",
+      "name": "Nabinagar",
+      "bn_name": "িবীিগি"
+    },
+    {
+      "id": "54",
+      "district_id": "41",
+      "name": "Sarail",
+      "bn_name": " িাইল"
+    },
+    {
+      "id": "55",
+      "district_id": "41",
+      "name": "Shahbazpur Town",
+      "bn_name": " াহবাজপুি টাউি"
+    },
+    {
+      "id": "56",
+      "district_id": "41",
+      "name": "Kasba",
+      "bn_name": "ক বা"
+    },
+    {
+      "id": "57",
+      "district_id": "41",
+      "name": "Akhaura",
+      "bn_name": "আখাউিা"
+    },
+    {
+      "id": "58",
+      "district_id": "41",
+      "name": "Bancharampur",
+      "bn_name": "বাঞ্ছািামপুি"
+    },
+    {
+      "id": "59",
+      "district_id": "41",
+      "name": "Bijoynagar",
+      "bn_name": "রবজয় িগি"
+    },
+    {
+      "id": "60",
+      "district_id": "42",
+      "name": "Chandpur Sadar",
+      "bn_name": "চা াঁদপুি  দি"
+    }
+  ]
+  

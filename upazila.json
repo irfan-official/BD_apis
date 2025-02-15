@@ -1,0 +1,1995 @@
+[
+    {
+      "id": "1",
+      "upazilla_id": "1",
+      "upazilla_name": "Amtali",
+      "police_num": "01713374354",
+      "hospital_num": "01730324759",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "2",
+      "upazilla_id": "2",
+      "upazilla_name": "Bamna",
+      "police_num": "01713374356",
+      "hospital_num": "01730324405",
+      "fire_service": "01901024023",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "3",
+      "upazilla_id": "3",
+      "upazilla_name": "Barguna Sadar",
+      "police_num": "01730324884",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024017",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "4",
+      "upazilla_id": "4",
+      "upazilla_name": "Betagi",
+      "police_num": "01713374356",
+      "hospital_num": "01730324406",
+      "fire_service": "01901024025",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "5",
+      "upazilla_id": "5",
+      "upazilla_name": "Patharghata",
+      "police_num": "01713374355",
+      "hospital_num": "01730324407",
+      "fire_service": "01901024021",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "6",
+      "upazilla_id": "6",
+      "upazilla_name": "Taltali",
+      "police_num": " 01713374356",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024027",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "7",
+      "upazilla_id": "7",
+      "upazilla_name": "Muladi",
+      "police_num": " 01713374260",
+      "hospital_num": "01730324415",
+      "fire_service": "01901023949",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "8",
+      "upazilla_id": "8",
+      "upazilla_name": "Babuganj",
+      "police_num": " 01713374271",
+      "hospital_num": "01730324409",
+      "fire_service": "01901023941",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "9",
+      "upazilla_id": "9",
+      "upazilla_name": "Agailjhara",
+      "police_num": "01713374284",
+      "hospital_num": "01730324408",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "10",
+      "upazilla_id": "10",
+      "upazilla_name": "Barisal Sadar",
+      "police_num": "0171337428",
+      "hospital_num": "01730324760",
+      "fire_service": "01901023921",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "11",
+      "upazilla_id": "11",
+      "upazilla_name": "Bakerganj",
+      "police_num": "01713374272",
+      "hospital_num": "01730324410",
+      "fire_service": "01901023943",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "12",
+      "upazilla_id": "12",
+      "upazilla_name": "Banaripara",
+      "police_num": "01713374273",
+      "hospital_num": "01730324411",
+      "fire_service": "01901023937",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "13",
+      "upazilla_id": "13",
+      "upazilla_name": "Gauranadi",
+      "police_num": "01713374275",
+      "hospital_num": "01730324412",
+      "fire_service": "01901023931",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "14",
+      "upazilla_id": "14",
+      "upazilla_name": "Hijla",
+      "police_num": " 0171337428",
+      "hospital_num": "01730324413",
+      "fire_service": "01901023947",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "15",
+      "upazilla_id": "15",
+      "upazilla_name": "Mehediganj",
+      "police_num": "01713374279",
+      "hospital_num": "01730324414",
+      "fire_service": "01901023939",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "16",
+      "upazilla_id": "16",
+      "upazilla_name": "Wazirpur",
+      "police_num": "0171337428",
+      "hospital_num": "01730324416",
+      "fire_service": "01901023933",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "17",
+      "upazilla_id": "17",
+      "upazilla_name": "Bhola Sadar",
+      "police_num": "01713374300",
+      "hospital_num": "01730324761",
+      "fire_service": "01901023975",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "18",
+      "upazilla_id": "18",
+      "upazilla_name": "Burhanuddin",
+      "police_num": "01713374303",
+      "hospital_num": "01730324417",
+      "fire_service": "01901023979",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "19",
+      "upazilla_id": "19",
+      "upazilla_name": "Char Fasson",
+      "police_num": " 01713374305",
+      "hospital_num": "01730324418",
+      "fire_service": "01901023981",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "20",
+      "upazilla_id": "20",
+      "upazilla_name": "Daulatkhan",
+      "police_num": "01713374301",
+      "hospital_num": "01730324419",
+      "fire_service": "01901023983",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "21",
+      "upazilla_id": "21",
+      "upazilla_name": "Lalmohan",
+      "police_num": "01713374304",
+      "hospital_num": "01730324420",
+      "fire_service": "01901023985",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "22",
+      "upazilla_id": "22",
+      "upazilla_name": "Monpura",
+      "police_num": " 01713374306",
+      "hospital_num": "01730324421",
+      "fire_service": "01901023987",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "23",
+      "upazilla_id": "23",
+      "upazilla_name": "Tazumuddin",
+      "police_num": "01713374302",
+      "hospital_num": "01730324422",
+      "fire_service": "01901023989",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "24",
+      "upazilla_id": "24",
+      "upazilla_name": "Jhalkathi Sadar",
+      "police_num": " 0171337428",
+      "hospital_num": "01730324762",
+      "fire_service": "01901023951",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "25",
+      "upazilla_id": "25",
+      "upazilla_name": "Kathalia",
+      "police_num": "01713374279",
+      "hospital_num": "01730324423",
+      "fire_service": "01901023953",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "26",
+      "upazilla_id": "26",
+      "upazilla_name": "Nalchiti",
+      "police_num": "0171337428",
+      "hospital_num": "01730324424",
+      "fire_service": "01901023955",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "27",
+      "upazilla_id": "27",
+      "upazilla_name": "Rajapur",
+      "police_num": "0171337428",
+      "hospital_num": "01799567004",
+      "fire_service": "01901023953",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "28",
+      "upazilla_id": "28",
+      "upazilla_name": "Bauphal",
+      "police_num": "01713374319",
+      "hospital_num": "01730324426",
+      "fire_service": "01901023999",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "29",
+      "upazilla_id": "29",
+      "upazilla_name": "Dashmina",
+      "police_num": "01713374321",
+      "hospital_num": "01730324427",
+      "fire_service": "01901024001",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "30",
+      "upazilla_id": "30",
+      "upazilla_name": "Golachipa",
+      "police_num": " 01713374320",
+      "hospital_num": "01730324428",
+      "fire_service": "01901024015",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "31",
+      "upazilla_id": "31",
+      "upazilla_name": "Kalapara",
+      "police_num": "01713374323",
+      "hospital_num": "01730324429",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "32",
+      "upazilla_id": "32",
+      "upazilla_name": "Mirjaganj",
+      "police_num": "01713374324",
+      "hospital_num": "01730324430",
+      "fire_service": "01901024007",
+      "bus_station": "01735631071",
+      "pharmacy": "01632502297"
+    },
+    {
+      "id": "33",
+      "upazilla_id": "33",
+      "upazilla_name": "Patuakhali Sadar",
+      "police_num": "01713374318",
+      "hospital_num": "01730324763",
+      "fire_service": "01901023995",
+      "bus_station": "01735631072",
+      "pharmacy": "01632502298"
+    },
+    {
+      "id": "34",
+      "upazilla_id": "34",
+      "upazilla_name": "Dumki",
+      "police_num": " 01713374322",
+      "hospital_num": "01730324823",
+      "fire_service": "01901024022",
+      "bus_station": "01735631073",
+      "pharmacy": "01632502299"
+    },
+    {
+      "id": "35",
+      "upazilla_id": "35",
+      "upazilla_name": "Rangabali",
+      "police_num": "01713374325",
+      "hospital_num": "01799567008",
+      "fire_service": "01901024023",
+      "bus_station": "01735631074",
+      "pharmacy": "01632502300"
+    },
+    {
+      "id": "36",
+      "upazilla_id": "36",
+      "upazilla_name": "Vandaria",
+      "police_num": " 01713374337",
+      "hospital_num": "01730324431",
+      "fire_service": "01901024024",
+      "bus_station": "01735631075",
+      "pharmacy": "01632502301"
+    },
+    {
+      "id": "37",
+      "upazilla_id": "37",
+      "upazilla_name": "Kaokhali",
+      "police_num": " 01713374339",
+      "hospital_num": "01730324432",
+      "fire_service": "01901024025",
+      "bus_station": "01735631076",
+      "pharmacy": "01632502302"
+    },
+    {
+      "id": "38",
+      "upazilla_id": "38",
+      "upazilla_name": "Matbaria",
+      "police_num": "01713374342",
+      "hospital_num": "01730324433",
+      "fire_service": "01901024026",
+      "bus_station": "01735631077",
+      "pharmacy": "01632502303"
+    },
+    {
+      "id": "39",
+      "upazilla_id": "39",
+      "upazilla_name": "Najirpur",
+      "police_num": "01713374340",
+      "hospital_num": "01730324435",
+      "fire_service": "01901024027",
+      "bus_station": "01735631078",
+      "pharmacy": "01632502304"
+    },
+    {
+      "id": "40",
+      "upazilla_id": "40",
+      "upazilla_name": "Nesarabad",
+      "police_num": "01713374337",
+      "hospital_num": "01730324434",
+      "fire_service": "01901024028",
+      "bus_station": "01735631079",
+      "pharmacy": "01632502305"
+    },
+    {
+      "id": "41",
+      "upazilla_id": "41",
+      "upazilla_name": "Pirojpur Sadar",
+      "police_num": "01713374337",
+      "hospital_num": "01730324764",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "42",
+      "upazilla_id": "42",
+      "upazilla_name": "Jiyanagar",
+      "police_num": "01713374341",
+      "hospital_num": "01730324880",
+      "fire_service": "01901024020",
+      "bus_station": "01735631071",
+      "pharmacy": "01632502297"
+    },
+    {
+      "id": "43",
+      "upazilla_id": "43",
+      "upazilla_name": "Bandarban Sadar",
+      "police_num": "01320156189",
+      "hospital_num": "01730324765",
+      "fire_service": "01901024021",
+      "bus_station": "01735631072",
+      "pharmacy": "01632502298"
+    },
+    {
+      "id": "44",
+      "upazilla_id": "44",
+      "upazilla_name": "Thanchi",
+      "police_num": "01320156190",
+      "hospital_num": "01552140401",
+      "fire_service": "01901024022",
+      "bus_station": "01735631073",
+      "pharmacy": "01632502299"
+    },
+    {
+      "id": "45",
+      "upazilla_id": "45",
+      "upazilla_name": "Lama",
+      "police_num": "01320156191",
+      "hospital_num": "01730324825",
+      "fire_service": "01901024023",
+      "bus_station": "01735631074",
+      "pharmacy": "01632502300"
+    },
+    {
+      "id": "46",
+      "upazilla_id": "46",
+      "upazilla_name": "Naikhongchori",
+      "police_num": "01320156192",
+      "hospital_num": "01730324826",
+      "fire_service": "01901024024",
+      "bus_station": "01735631075",
+      "pharmacy": "01632502301"
+    },
+    {
+      "id": "47",
+      "upazilla_id": "47",
+      "upazilla_name": "Ali Kadam",
+      "police_num": "01320156193",
+      "hospital_num": "01730324824",
+      "fire_service": "01901024025",
+      "bus_station": "01735631076",
+      "pharmacy": "01632502302"
+    },
+    {
+      "id": "48",
+      "upazilla_id": "48",
+      "upazilla_name": "Rowangchori",
+      "police_num": "01320156194",
+      "hospital_num": "01811444605",
+      "fire_service": "01901024026",
+      "bus_station": "01735631077",
+      "pharmacy": "01632502303"
+    },
+    {
+      "id": "49",
+      "upazilla_id": "49",
+      "upazilla_name": "Ruma",
+      "police_num": "01320156195",
+      "hospital_num": "01730324828",
+      "fire_service": "01901024027",
+      "bus_station": "01735631078",
+      "pharmacy": "01632502304"
+    },
+    {
+      "id": "50",
+      "upazilla_id": "50",
+      "upazilla_name": "Brammanbaria Sadar",
+      "police_num": "01713373630",
+      "hospital_num": "01730324766",
+      "fire_service": "01901024028",
+      "bus_station": "01735631079",
+      "pharmacy": "01632502305"
+    },
+    {
+      "id": "51",
+      "upazilla_id": "51",
+      "upazilla_name": "Ashuganj",
+      "police_num": " 01713373632",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "52",
+      "upazilla_id": "52",
+      "upazilla_name": "Nasirnagar",
+      "police_num": "01713373633",
+      "hospital_num": "01730324441",
+      "fire_service": "01901024020",
+      "bus_station": "01735631071",
+      "pharmacy": "01632502297"
+    },
+    {
+      "id": "53",
+      "upazilla_id": "53",
+      "upazilla_name": "Nabinagar",
+      "police_num": "01713373734",
+      "hospital_num": "01730324440",
+      "fire_service": "01901024021",
+      "bus_station": "01735631072",
+      "pharmacy": "01632502298"
+    },
+    {
+      "id": "54",
+      "upazilla_id": "54",
+      "upazilla_name": "Sorail",
+      "police_num": "01713373731",
+      "hospital_num": "01730324442",
+      "fire_service": "01901024022",
+      "bus_station": "01735631073",
+      "pharmacy": "01632502299"
+    },
+    {
+      "id": "55",
+      "upazilla_id": "55",
+      "upazilla_name": "Sahbajpur Town",
+      "police_num": "01320156191",
+      "hospital_num": "01799567008",
+      "fire_service": "01901024023",
+      "bus_station": "01735631074",
+      "pharmacy": "01632502300"
+    },
+    {
+      "id": "56",
+      "upazilla_id": "56",
+      "upazilla_name": "Kosba",
+      "police_num": "01713373736",
+      "hospital_num": "01730324439",
+      "fire_service": "01901024024",
+      "bus_station": "01735631075",
+      "pharmacy": "01632502301"
+    },
+    {
+      "id": "57",
+      "upazilla_id": "57",
+      "upazilla_name": "Akhaura",
+      "police_num": "01713373736",
+      "hospital_num": "01730324436",
+      "fire_service": "01901024025",
+      "bus_station": "01735631076",
+      "pharmacy": "01632502302"
+    },
+    {
+      "id": "58",
+      "upazilla_id": "58",
+      "upazilla_name": "Bancharampur",
+      "police_num": "01713373635",
+      "hospital_num": "01730324438",
+      "fire_service": "01901024026",
+      "bus_station": "01735631077",
+      "pharmacy": "01632502303"
+    },
+    {
+      "id": "59",
+      "upazilla_id": "59",
+      "upazilla_name": "Bijoynagar",
+      "police_num": "01713373614",
+      "hospital_num": "01799567012",
+      "fire_service": "01901024027",
+      "bus_station": "01735631078",
+      "pharmacy": "01632502304"
+    },
+    {
+      "id": "60",
+      "upazilla_id": "60",
+      "upazilla_name": "Chadpur Sadar",
+      "police_num": "01713373612",
+      "hospital_num": "01730324767",
+      "fire_service": "01901024028",
+      "bus_station": "01735631079",
+      "pharmacy": "01632502305"
+    },
+    {
+      "id": "61",
+      "upazilla_id": "61",
+      "upazilla_name": "Faridganj",
+      "police_num": "01713373617",
+      "hospital_num": "01730324830",
+      "fire_service": "01901024029",
+      "bus_station": "01735631080",
+      "pharmacy": "01632502306"
+    },
+    {
+      "id": "62",
+      "upazilla_id": "62",
+      "upazilla_name": "Highmochor",
+      "police_num": " 01713373619",
+      "hospital_num": "01730324831",
+      "fire_service": "01901024030",
+      "bus_station": "01735631081",
+      "pharmacy": "01632502307"
+    },
+    {
+      "id": "63",
+      "upazilla_id": "63",
+      "upazilla_name": "Hajiganj",
+      "police_num": "01713373613",
+      "hospital_num": "01730324832",
+      "fire_service": "01901024031",
+      "bus_station": "01735631082",
+      "pharmacy": "01632502308"
+    },
+    {
+      "id": "64",
+      "upazilla_id": "64",
+      "upazilla_name": "Kochua",
+      "police_num": "01713373617",
+      "hospital_num": "01730324833",
+      "fire_service": "01901024032",
+      "bus_station": "01735631083",
+      "pharmacy": "01632502309"
+    },
+    {
+      "id": "65",
+      "upazilla_id": "65",
+      "upazilla_name": "Motlob Uttar",
+      "police_num": "01713373614",
+      "hospital_num": "01730324835",
+      "fire_service": "01901024033",
+      "bus_station": "01735631084",
+      "pharmacy": "01632502310"
+    },
+    {
+      "id": "66",
+      "upazilla_id": "66",
+      "upazilla_name": "Motlob Dokkhin",
+      "police_num": "01713373615",
+      "hospital_num": "01730324834",
+      "fire_service": "01901024034",
+      "bus_station": "01735631085",
+      "pharmacy": "01632502311"
+    },
+    {
+      "id": "67",
+      "upazilla_id": "67",
+      "upazilla_name": "Sahrasti",
+      "police_num": "01713373617",
+      "hospital_num": "01730324836",
+      "fire_service": "01901024035",
+      "bus_station": "01735631086",
+      "pharmacy": "01632502312"
+    },
+    {
+      "id": "68",
+      "upazilla_id": "68",
+      "upazilla_name": "Anowara",
+      "police_num": "01713373748",
+      "hospital_num": "01730324443",
+      "fire_service": "01901024036",
+      "bus_station": "01735631087",
+      "pharmacy": "01632502313"
+    },
+    {
+      "id": "69",
+      "upazilla_id": "69",
+      "upazilla_name": "Bashkhali",
+      "police_num": "01713373748",
+      "hospital_num": "01730324444",
+      "fire_service": "01901024037",
+      "bus_station": "01735631088",
+      "pharmacy": "01632502314"
+    },
+    {
+      "id": "70",
+      "upazilla_id": "70",
+      "upazilla_name": "Bowalkhali",
+      "police_num": "01713373748",
+      "hospital_num": "01730324445",
+      "fire_service": "01901024038",
+      "bus_station": "01735631089",
+      "pharmacy": "01632502315"
+    },
+    {
+      "id": "71",
+      "upazilla_id": "71",
+      "upazilla_name": "Chondonais",
+      "police_num": "01713373751",
+      "hospital_num": "01730324446",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "72",
+      "upazilla_id": "72",
+      "upazilla_name": "Fotikchori",
+      "police_num": "01713373641",
+      "hospital_num": "01730324447",
+      "fire_service": "01901024020",
+      "bus_station": "01735631071",
+      "pharmacy": "01632502297"
+    },
+    {
+      "id": "73",
+      "upazilla_id": "73",
+      "upazilla_name": "Hathajari",
+      "police_num": "01713373740",
+      "hospital_num": "01730324448",
+      "fire_service": "01901024021",
+      "bus_station": "01735631072",
+      "pharmacy": "01632502298"
+    },
+    {
+      "id": "74",
+      "upazilla_id": "74",
+      "upazilla_name": "Lohagara",
+      "police_num": "01713373750",
+      "hospital_num": "01730324449",
+      "fire_service": "01901024022",
+      "bus_station": "01735631073",
+      "pharmacy": "01632502299"
+    },
+    {
+      "id": "75",
+      "upazilla_id": "75",
+      "upazilla_name": "Mirsorai",
+      "police_num": "01713373644",
+      "hospital_num": "01730324450",
+      "fire_service": "01901024023",
+      "bus_station": "01735631074",
+      "pharmacy": "01632502300"
+    },
+    {
+      "id": "76",
+      "upazilla_id": "76",
+      "upazilla_name": "Potia",
+      "police_num": "01713373743",
+      "hospital_num": "01730324451",
+      "fire_service": "01901024024",
+      "bus_station": "01735631075",
+      "pharmacy": "01632502301"
+    },
+    {
+      "id": "77",
+      "upazilla_id": "77",
+      "upazilla_name": "Rangunia",
+      "police_num": "01713373642",
+      "hospital_num": "01730324452",
+      "fire_service": "01901024025",
+      "bus_station": "01735631076",
+      "pharmacy": "01632502302"
+    },
+    {
+      "id": "78",
+      "upazilla_id": "78",
+      "upazilla_name": "Raujan",
+      "police_num": "01713373739",
+      "hospital_num": "01730324453",
+      "fire_service": "01901024026",
+      "bus_station": "01735631077",
+      "pharmacy": "01632502303"
+    },
+    {
+      "id": "79",
+      "upazilla_id": "79",
+      "upazilla_name": "Sondip",
+      "police_num": "01713373752",
+      "hospital_num": "01730324454",
+      "fire_service": "01901024027",
+      "bus_station": "01735631078",
+      "pharmacy": "01632502304"
+    },
+    {
+      "id": "80",
+      "upazilla_id": "80",
+      "upazilla_name": "Satkania",
+      "police_num": "01713373749",
+      "hospital_num": "01730324455",
+      "fire_service": "01901024028",
+      "bus_station": "01735631079",
+      "pharmacy": "01632502305"
+    },
+    {
+      "id": "81",
+      "upazilla_id": "81",
+      "upazilla_name": "Sitakundu",
+      "police_num": " 01713373745",
+      "hospital_num": "01730324456",
+      "fire_service": "01901024029",
+      "bus_station": "01735631080",
+      "pharmacy": "01632502306"
+    },
+    {
+      "id": "82",
+      "upazilla_id": "82",
+      "upazilla_name": "Borua",
+      "police_num": "01713373693",
+      "hospital_num": "01730324457",
+      "fire_service": "01901024030",
+      "bus_station": "01735631081",
+      "pharmacy": "01632502307"
+    },
+    {
+      "id": "83",
+      "upazilla_id": "83",
+      "upazilla_name": "Brammanpara",
+      "police_num": "01713373698",
+      "hospital_num": "01730324458",
+      "fire_service": "01901024031",
+      "bus_station": "01735631082",
+      "pharmacy": "01632502308"
+    },
+    {
+      "id": "84",
+      "upazilla_id": "84",
+      "upazilla_name": "Burichong",
+      "police_num": "01713373691",
+      "hospital_num": "01730324459",
+      "fire_service": "01901024032",
+      "bus_station": "01735631083",
+      "pharmacy": "01632502309"
+    },
+    {
+      "id": "85",
+      "upazilla_id": "85",
+      "upazilla_name": "Chandina",
+      "police_num": "01713373692",
+      "hospital_num": "01730324461",
+      "fire_service": "01901024033",
+      "bus_station": "01735631084",
+      "pharmacy": "01632502310"
+    },
+    {
+      "id": "86",
+      "upazilla_id": "86",
+      "upazilla_name": "Choddogram",
+      "police_num": "017133736",
+      "hospital_num": "01730324460",
+      "fire_service": "01901024034",
+      "bus_station": "01735631085",
+      "pharmacy": "01632502311"
+    },
+    {
+      "id": "87",
+      "upazilla_id": "87",
+      "upazilla_name": "Daudkandi",
+      "police_num": "01713373690",
+      "hospital_num": "01730324462",
+      "fire_service": "01901024035",
+      "bus_station": "01735631086",
+      "pharmacy": "01632502312"
+    },
+    {
+      "id": "88",
+      "upazilla_id": "88",
+      "upazilla_name": "Dabiddar",
+      "police_num": "017133736",
+      "hospital_num": "01730324463",
+      "fire_service": "01901024036",
+      "bus_station": "01735631087",
+      "pharmacy": "01632502313"
+    },
+    {
+      "id": "89",
+      "upazilla_id": "89",
+      "upazilla_name": "Homna",
+      "police_num": "017133736",
+      "hospital_num": "01730324464",
+      "fire_service": "01901024037",
+      "bus_station": "01735631088",
+      "pharmacy": "01632502314"
+    },
+    {
+      "id": "90",
+      "upazilla_id": "90",
+      "upazilla_name": "Kumilla Sadar",
+      "police_num": "01713373600",
+      "hospital_num": "01730324769",
+      "fire_service": "01901024038",
+      "bus_station": "01735631089",
+      "pharmacy": "01632502315"
+    },
+    {
+      "id": "91",
+      "upazilla_id": "91",
+      "upazilla_name": "Laksham",
+      "police_num": " 0171337369",
+      "hospital_num": "01730324465",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "92",
+      "upazilla_id": "92",
+      "upazilla_name": "Monohorganj",
+      "police_num": "01713373698",
+      "hospital_num": "01730324839",
+      "fire_service": "01901024020",
+      "bus_station": "01735631071",
+      "pharmacy": "01632502297"
+    },
+    {
+      "id": "93",
+      "upazilla_id": "93",
+      "upazilla_name": "Meghna",
+      "police_num": "01713373698",
+      "hospital_num": "01730324838",
+      "fire_service": "01901024021",
+      "bus_station": "01735631072",
+      "pharmacy": "01632502298"
+    },
+    {
+      "id": "94",
+      "upazilla_id": "94",
+      "upazilla_name": "Muradnagar",
+      "police_num": " 01713373695",
+      "hospital_num": "01730324840",
+      "fire_service": "01901024022",
+      "bus_station": "01735631073",
+      "pharmacy": "01632502299"
+    },
+    {
+      "id": "95",
+      "upazilla_id": "95",
+      "upazilla_name": "Nangalkot",
+      "police_num": "01713373694",
+      "hospital_num": "01730324841",
+      "fire_service": "01901024023",
+      "bus_station": "01735631074",
+      "pharmacy": "01632502300"
+    },
+    {
+      "id": "96",
+      "upazilla_id": "96",
+      "upazilla_name": "Cumilla Sadar South",
+      "police_num": "01713373600",
+      "hospital_num": "01730324842",
+      "fire_service": "01901024024",
+      "bus_station": "01735631075",
+      "pharmacy": "01632502301"
+    },
+    {
+      "id": "97",
+      "upazilla_id": "97",
+      "upazilla_name": "Titas",
+      "police_num": "01713373799",
+      "hospital_num": "01730324837",
+      "fire_service": "01901024025",
+      "bus_station": "01735631076",
+      "pharmacy": "01632502302"
+    },
+    {
+      "id": "98",
+      "upazilla_id": "98",
+      "upazilla_name": "Chakaria",
+      "police_num": " 01713373667",
+      "hospital_num": "01730324466",
+      "fire_service": "01901024026",
+      "bus_station": "01735631077",
+      "pharmacy": "01632502303"
+    },
+    {
+      "id": "100",
+      "upazilla_id": "100",
+      "upazilla_name": "Cox's Bazar Sadar",
+      "police_num": "0171337373",
+      "hospital_num": "01730324770",
+      "fire_service": "01901024027",
+      "bus_station": "01735631078",
+      "pharmacy": "01632502304"
+    },
+    {
+      "id": "101",
+      "upazilla_id": "101",
+      "upazilla_name": "Kutubdia",
+      "police_num": " 01713373668",
+      "hospital_num": "01730324467",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "102",
+      "upazilla_id": "102",
+      "upazilla_name": "Maheshkhali",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "103",
+      "upazilla_id": "103",
+      "upazilla_name": "Ramu",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "104",
+      "upazilla_id": "104",
+      "upazilla_name": "Teknaf",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "105",
+      "upazilla_id": "105",
+      "upazilla_name": "Ukhia",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "106",
+      "upazilla_id": "106",
+      "upazilla_name": "Pekua",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "107",
+      "upazilla_id": "107",
+      "upazilla_name": "Feni Sadar",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "108",
+      "upazilla_id": "108",
+      "upazilla_name": "Sagal Naiya",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "109",
+      "upazilla_id": "109",
+      "upazilla_name": "Daganviya",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "110",
+      "upazilla_id": "110",
+      "upazilla_name": "Porshuram",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "111",
+      "upazilla_id": "111",
+      "upazilla_name": "Fulgazi",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "112",
+      "upazilla_id": "112",
+      "upazilla_name": "Sonagazi",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "113",
+      "upazilla_id": "113",
+      "upazilla_name": "Dighinala",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "114",
+      "upazilla_id": "114",
+      "upazilla_name": "Khagrachari",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "115",
+      "upazilla_id": "115",
+      "upazilla_name": "Lokkhichori",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "116",
+      "upazilla_id": "116",
+      "upazilla_name": "Mahalchori",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "117",
+      "upazilla_id": "117",
+      "upazilla_name": "Manikchari",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "118",
+      "upazilla_id": "118",
+      "upazilla_name": "Matiranga",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "119",
+      "upazilla_id": "119",
+      "upazilla_name": "Panchari",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+  
+    {
+      "id": "120",
+      "upazilla_id": "120",
+      "upazilla_name": "Ramgar",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "121",
+      "upazilla_id": "121",
+      "upazilla_name": "Lakshmipur Sadar",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "122",
+      "upazilla_id": "122",
+      "upazilla_name": "Raipur",
+      "police_num": "01320156188",
+      "hospital_num": "01799567005",
+      "fire_service": "01901024020",
+      "bus_station": "01735631071",
+      "pharmacy": "01632502297"
+    },
+    {
+      "id": "123",
+      "upazilla_id": "123",
+      "upazilla_name": "Ranganj",
+      "police_num": "01320156189",
+      "hospital_num": "01799567006",
+      "fire_service": "01901024021",
+      "bus_station": "01735631072",
+      "pharmacy": "01632502298"
+    },
+    {
+      "id": "124",
+      "upazilla_id": "124",
+      "upazilla_name": "Ramgati",
+      "police_num": "01320156190",
+      "hospital_num": "01799567007",
+      "fire_service": "01901024022",
+      "bus_station": "01735631073",
+      "pharmacy": "01632502299"
+    },
+    {
+      "id": "125",
+      "upazilla_id": "125",
+      "upazilla_name": "Komolnagar",
+      "police_num": "01320156191",
+      "hospital_num": "01799567008",
+      "fire_service": "01901024023",
+      "bus_station": "01735631074",
+      "pharmacy": "01632502300"
+    },
+    {
+      "id": "126",
+      "upazilla_id": "126",
+      "upazilla_name": "Noakhali Sadar",
+      "police_num": "01320156192",
+      "hospital_num": "01799567009",
+      "fire_service": "01901024024",
+      "bus_station": "01735631075",
+      "pharmacy": "01632502301"
+    },
+    {
+      "id": "127",
+      "upazilla_id": "127",
+      "upazilla_name": "Begumganj",
+      "police_num": "01320156193",
+      "hospital_num": "01799567010",
+      "fire_service": "01901024025",
+      "bus_station": "01735631076",
+      "pharmacy": "01632502302"
+    },
+    {
+      "id": "128",
+      "upazilla_id": "128",
+      "upazilla_name": "Chatkhil",
+      "police_num": "01320156194",
+      "hospital_num": "01799567011",
+      "fire_service": "01901024026",
+      "bus_station": "01735631077",
+      "pharmacy": "01632502303"
+    },
+    {
+      "id": "129",
+      "upazilla_id": "129",
+      "upazilla_name": "Companyganj",
+      "police_num": "01320156195",
+      "hospital_num": "01799567012",
+      "fire_service": "01901024027",
+      "bus_station": "01735631078",
+      "pharmacy": "01632502304"
+    },
+    {
+      "id": "130",
+      "upazilla_id": "130",
+      "upazilla_name": "Shenbag",
+      "police_num": "01320156196",
+      "hospital_num": "01799567013",
+      "fire_service": "01901024028",
+      "bus_station": "01735631079",
+      "pharmacy": "01632502305"
+    },
+    {
+      "id": "131",
+      "upazilla_id": "131",
+      "upazilla_name": "Hatia",
+      "police_num": "01320156197",
+      "hospital_num": "01799567014",
+      "fire_service": "01901024029",
+      "bus_station": "01735631080",
+      "pharmacy": "01632502306"
+    },
+    {
+      "id": "132",
+      "upazilla_id": "132",
+      "upazilla_name": "Kabirhat",
+      "police_num": "01320156198",
+      "hospital_num": "01799567015",
+      "fire_service": "01901024030",
+      "bus_station": "01735631081",
+      "pharmacy": "01632502307"
+    },
+    {
+      "id": "133",
+      "upazilla_id": "133",
+      "upazilla_name": "Sonaimuri",
+      "police_num": "01320156199",
+      "hospital_num": "01799567016",
+      "fire_service": "01901024031",
+      "bus_station": "01735631082",
+      "pharmacy": "01632502308"
+    },
+    {
+      "id": "134",
+      "upazilla_id": "134",
+      "upazilla_name": "Subarnochar",
+      "police_num": "01320156200",
+      "hospital_num": "01799567017",
+      "fire_service": "01901024032",
+      "bus_station": "01735631083",
+      "pharmacy": "01632502309"
+    },
+    {
+      "id": "135",
+      "upazilla_id": "135",
+      "upazilla_name": "Rangamati Sadar",
+      "police_num": "01320156201",
+      "hospital_num": "01799567018",
+      "fire_service": "01901024033",
+      "bus_station": "01735631084",
+      "pharmacy": "01632502310"
+    },
+    {
+      "id": "136",
+      "upazilla_id": "136",
+      "upazilla_name": "Belaichori",
+      "police_num": "01320156202",
+      "hospital_num": "01799567019",
+      "fire_service": "01901024034",
+      "bus_station": "01735631085",
+      "pharmacy": "01632502311"
+    },
+    {
+      "id": "137",
+      "upazilla_id": "137",
+      "upazilla_name": "Baghaichori",
+      "police_num": "01320156203",
+      "hospital_num": "01799567020",
+      "fire_service": "01901024035",
+      "bus_station": "01735631086",
+      "pharmacy": "01632502312"
+    },
+    {
+      "id": "138",
+      "upazilla_id": "138",
+      "upazilla_name": "Barkal",
+      "police_num": "01320156204",
+      "hospital_num": "01799567021",
+      "fire_service": "01901024036",
+      "bus_station": "01735631087",
+      "pharmacy": "01632502313"
+    },
+    {
+      "id": "139",
+      "upazilla_id": "139",
+      "upazilla_name": "Juraichari",
+      "police_num": "01320156205",
+      "hospital_num": "01799567022",
+      "fire_service": "01901024037",
+      "bus_station": "01735631088",
+      "pharmacy": "01632502314"
+    },
+    {
+      "id": "140",
+      "upazilla_id": "140",
+      "upazilla_name": "Rajasthali",
+      "police_num": "01320156206",
+      "hospital_num": "01799567023",
+      "fire_service": "01901024038",
+      "bus_station": "01735631089",
+      "pharmacy": "01632502315"
+    },
+    {},
+    {
+      "id": "141",
+      "upazilla_id": "141",
+      "upazilla_name": "Kaptai",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "142",
+      "upazilla_id": "142",
+      "upazilla_name": "Langadu",
+      "police_num": "01320156188",
+      "hospital_num": "01799567005",
+      "fire_service": "01901024020",
+      "bus_station": "01735631071",
+      "pharmacy": "01632502297"
+    },
+    {
+      "id": "143",
+      "upazilla_id": "143",
+      "upazilla_name": "Nannerchar",
+      "police_num": "01320156189",
+      "hospital_num": "01799567006",
+      "fire_service": "01901024021",
+      "bus_station": "01735631072",
+      "pharmacy": "01632502298"
+    },
+    {
+      "id": "144",
+      "upazilla_id": "144",
+      "upazilla_name": "Kaukhali",
+      "police_num": "01320156190",
+      "hospital_num": "01799567007",
+      "fire_service": "01901024022",
+      "bus_station": "01735631073",
+      "pharmacy": "01632502299"
+    },
+    {
+      "id": "145",
+      "upazilla_id": "145",
+      "upazilla_name": "Dhamrai",
+      "police_num": "01320156191",
+      "hospital_num": "01799567008",
+      "fire_service": "01901024023",
+      "bus_station": "01735631074",
+      "pharmacy": "01632502300"
+    },
+    {
+      "id": "146",
+      "upazilla_id": "146",
+      "upazilla_name": "Dohar",
+      "police_num": "01320156192",
+      "hospital_num": "01799567009",
+      "fire_service": "01901024024",
+      "bus_station": "01735631075",
+      "pharmacy": "01632502301"
+    },
+    {
+      "id": "147",
+      "upazilla_id": "147",
+      "upazilla_name": "Keraniganj",
+      "police_num": "01320156193",
+      "hospital_num": "01799567010",
+      "fire_service": "01901024025",
+      "bus_station": "01735631076",
+      "pharmacy": "01632502302"
+    },
+    {
+      "id": "148",
+      "upazilla_id": "148",
+      "upazilla_name": "Nawabganj",
+      "police_num": "01320156194",
+      "hospital_num": "01799567011",
+      "fire_service": "01901024026",
+      "bus_station": "01735631077",
+      "pharmacy": "01632502303"
+    },
+    {
+      "id": "149",
+      "upazilla_id": "149",
+      "upazilla_name": "Savar",
+      "police_num": "01320156195",
+      "hospital_num": "01799567012",
+      "fire_service": "01901024027",
+      "bus_station": "01735631078",
+      "pharmacy": "01632502304"
+    },
+    {
+      "id": "150",
+      "upazilla_id": "150",
+      "upazilla_name": "Faridpur Sadar",
+      "police_num": "01320156196",
+      "hospital_num": "01799567013",
+      "fire_service": "01901024028",
+      "bus_station": "01735631079",
+      "pharmacy": "01632502305"
+    },
+    {
+      "id": "151",
+      "upazilla_id": "151",
+      "upazilla_name": "Boalmari",
+      "police_num": "01320156197",
+      "hospital_num": "01799567014",
+      "fire_service": "01901024029",
+      "bus_station": "01735631080",
+      "pharmacy": "01632502306"
+    },
+    {
+      "id": "152",
+      "upazilla_id": "152",
+      "upazilla_name": "Alfadanga",
+      "police_num": "01320156198",
+      "hospital_num": "01799567015",
+      "fire_service": "01901024030",
+      "bus_station": "01735631081",
+      "pharmacy": "01632502307"
+    },
+    {
+      "id": "153",
+      "upazilla_id": "153",
+      "upazilla_name": "Modhukhali",
+      "police_num": "01320156199",
+      "hospital_num": "01799567016",
+      "fire_service": "01901024031",
+      "bus_station": "01735631082",
+      "pharmacy": "01632502308"
+    },
+    {
+      "id": "154",
+      "upazilla_id": "154",
+      "upazilla_name": "Vangga",
+      "police_num": "01320156200",
+      "hospital_num": "01799567017",
+      "fire_service": "01901024032",
+      "bus_station": "01735631083",
+      "pharmacy": "01632502309"
+    },
+    {
+      "id": "155",
+      "upazilla_id": "155",
+      "upazilla_name": "Nagarkanda",
+      "police_num": "01320156201",
+      "hospital_num": "01799567018",
+      "fire_service": "01901024033",
+      "bus_station": "01735631084",
+      "pharmacy": "01632502310"
+    },
+    {
+      "id": "156",
+      "upazilla_id": "156",
+      "upazilla_name": "Charbhadrasan",
+      "police_num": "01320156202",
+      "hospital_num": "01799567019",
+      "fire_service": "01901024034",
+      "bus_station": "01735631085",
+      "pharmacy": "01632502311"
+    },
+    {
+      "id": "157",
+      "upazilla_id": "157",
+      "upazilla_name": "Sadarpur",
+      "police_num": "01320156203",
+      "hospital_num": "01799567020",
+      "fire_service": "01901024035",
+      "bus_station": "01735631086",
+      "pharmacy": "01632502312"
+    },
+    {
+      "id": "158",
+      "upazilla_id": "158",
+      "upazilla_name": "Saltha",
+      "police_num": "01320156204",
+      "hospital_num": "01799567021",
+      "fire_service": "01901024036",
+      "bus_station": "01735631087",
+      "pharmacy": "01632502313"
+    },
+    {
+      "id": "159",
+      "upazilla_id": "159",
+      "upazilla_name": "Gajipur Sadar",
+      "police_num": "01320156205",
+      "hospital_num": "01799567022",
+      "fire_service": "01901024037",
+      "bus_station": "01735631088",
+      "pharmacy": "01632502314"
+    },
+    {
+      "id": "160",
+      "upazilla_id": "160",
+      "upazilla_name": "Kaliakoir",
+      "police_num": "01320156206",
+      "hospital_num": "01799567023",
+      "fire_service": "01901024038",
+      "bus_station": "01735631089",
+      "pharmacy": "01632502315"
+    },
+    {
+      "id": "161",
+      "upazilla_id": "161",
+      "upazilla_name": "Kapatia",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "162",
+      "upazilla_id": "162",
+      "upazilla_name": "Sripur",
+      "police_num": "01320156188",
+      "hospital_num": "01799567005",
+      "fire_service": "01901024020",
+      "bus_station": "01735631071",
+      "pharmacy": "01632502297"
+    },
+    {
+      "id": "163",
+      "upazilla_id": "163",
+      "upazilla_name": "Kaliganj",
+      "police_num": "01320156189",
+      "hospital_num": "01799567006",
+      "fire_service": "01901024021",
+      "bus_station": "01735631072",
+      "pharmacy": "01632502298"
+    },
+    {
+      "id": "164",
+      "upazilla_id": "164",
+      "upazilla_name": "Tongi",
+      "police_num": "01320156190",
+      "hospital_num": "01799567007",
+      "fire_service": "01901024022",
+      "bus_station": "01735631073",
+      "pharmacy": "01632502299"
+    },
+    {
+      "id": "165",
+      "upazilla_id": "165",
+      "upazilla_name": "Gopalganj Sadar",
+      "police_num": "01320156191",
+      "hospital_num": "01799567008",
+      "fire_service": "01901024023",
+      "bus_station": "01735631074",
+      "pharmacy": "01632502300"
+    },
+    {
+      "id": "166",
+      "upazilla_id": "166",
+      "upazilla_name": "Kashiani",
+      "police_num": "01320156192",
+      "hospital_num": "01799567009",
+      "fire_service": "01901024024",
+      "bus_station": "01735631075",
+      "pharmacy": "01632502301"
+    },
+    {
+      "id": "167",
+      "upazilla_id": "167",
+      "upazilla_name": "Kotalipara",
+      "police_num": "01320156193",
+      "hospital_num": "01799567010",
+      "fire_service": "01901024025",
+      "bus_station": "01735631076",
+      "pharmacy": "01632502302"
+    },
+    {
+      "id": "168",
+      "upazilla_id": "168",
+      "upazilla_name": "Muksudpur",
+      "police_num": "01320156194",
+      "hospital_num": "01799567011",
+      "fire_service": "01901024026",
+      "bus_station": "01735631077",
+      "pharmacy": "01632502303"
+    },
+    {
+      "id": "169",
+      "upazilla_id": "169",
+      "upazilla_name": "Tungipara",
+      "police_num": "01320156195",
+      "hospital_num": "01799567012",
+      "fire_service": "01901024027",
+      "bus_station": "01735631078",
+      "pharmacy": "01632502304"
+    },
+    {
+      "id": "170",
+      "upazilla_id": "170",
+      "upazilla_name": "Dewanganj",
+      "police_num": "01320156196",
+      "hospital_num": "01799567013",
+      "fire_service": "01901024028",
+      "bus_station": "01735631079",
+      "pharmacy": "01632502305"
+    },
+    {
+      "id": "171",
+      "upazilla_id": "171",
+      "upazilla_name": "Bakshiganj",
+      "police_num": "01320156197",
+      "hospital_num": "01799567014",
+      "fire_service": "01901024029",
+      "bus_station": "01735631080",
+      "pharmacy": "01632502306"
+    },
+    {
+      "id": "172",
+      "upazilla_id": "172",
+      "upazilla_name": "Islampur",
+      "police_num": "01320156198",
+      "hospital_num": "01799567015",
+      "fire_service": "01901024030",
+      "bus_station": "01735631081",
+      "pharmacy": "01632502307"
+    },
+    {
+      "id": "173",
+      "upazilla_id": "173",
+      "upazilla_name": "Jamalpur Sadar",
+      "police_num": "01320156199",
+      "hospital_num": "01799567016",
+      "fire_service": "01901024031",
+      "bus_station": "01735631082",
+      "pharmacy": "01632502308"
+    },
+    {
+      "id": "174",
+      "upazilla_id": "174",
+      "upazilla_name": "Madarganj",
+      "police_num": "01320156200",
+      "hospital_num": "01799567017",
+      "fire_service": "01901024032",
+      "bus_station": "01735631083",
+      "pharmacy": "01632502309"
+    },
+    {
+      "id": "175",
+      "upazilla_id": "175",
+      "upazilla_name": "Melandaha",
+      "police_num": "01320156201",
+      "hospital_num": "01799567018",
+      "fire_service": "01901024033",
+      "bus_station": "01735631084",
+      "pharmacy": "01632502310"
+    },
+    {
+      "id": "176",
+      "upazilla_id": "176",
+      "upazilla_name": "Sarishabari",
+      "police_num": "01320156202",
+      "hospital_num": "01799567019",
+      "fire_service": "01901024034",
+      "bus_station": "01735631085",
+      "pharmacy": "01632502311"
+    },
+    {
+      "id": "177",
+      "upazilla_id": "177",
+      "upazilla_name": "Narundi",
+      "police_num": "01320156203",
+      "hospital_num": "01799567020",
+      "fire_service": "01901024035",
+      "bus_station": "01735631086",
+      "pharmacy": "01632502312"
+    },
+    {
+      "id": "178",
+      "upazilla_id": "178",
+      "upazilla_name": "Astagram",
+      "police_num": "01320156204",
+      "hospital_num": "01799567021",
+      "fire_service": "01901024036",
+      "bus_station": "01735631087",
+      "pharmacy": "01632502313"
+    },
+    {
+      "id": "179",
+      "upazilla_id": "179",
+      "upazilla_name": "Bajitpur",
+      "police_num": "01320156205",
+      "hospital_num": "01799567022",
+      "fire_service": "01901024037",
+      "bus_station": "01735631088",
+      "pharmacy": "01632502314"
+    },
+    {
+      "id": "180",
+      "upazilla_id": "180",
+      "upazilla_name": "Bhairab",
+      "police_num": "01320156206",
+      "hospital_num": "01799567023",
+      "fire_service": "01901024038",
+      "bus_station": "01735631089",
+      "pharmacy": "01632502315"
+    },
+    {
+      "id": "181",
+      "upazilla_id": "181",
+      "upazilla_name": "Hossainpur",
+      "police_num": "01320156187",
+      "hospital_num": "01799567004",
+      "fire_service": "01901024019",
+      "bus_station": "01735631070",
+      "pharmacy": "01632502296"
+    },
+    {
+      "id": "182",
+      "upazilla_id": "182",
+      "upazilla_name": "Itna",
+      "police_num": "01320156188",
+      "hospital_num": "01799567005",
+      "fire_service": "01901024020",
+      "bus_station": "01735631071",
+      "pharmacy": "01632502297"
+    },
+    {
+      "id": "183",
+      "upazilla_id": "183",
+      "upazilla_name": "Karimganj",
+      "police_num": "01320156189",
+      "hospital_num": "01799567006",
+      "fire_service": "01901024021",
+      "bus_station": "01735631072",
+      "pharmacy": "01632502298"
+    },
+    {
+      "id": "184",
+      "upazilla_id": "184",
+      "upazilla_name": "Katiadi",
+      "police_num": "01320156190",
+      "hospital_num": "01799567007",
+      "fire_service": "01901024022",
+      "bus_station": "01735631073",
+      "pharmacy": "01632502299"
+    },
+    {
+      "id": "185",
+      "upazilla_id": "185",
+      "upazilla_name": "Kishorganj Sadar",
+      "police_num": "01320156191",
+      "hospital_num": "01799567008",
+      "fire_service": "01901024023",
+      "bus_station": "01735631074",
+      "pharmacy": "01632502300"
+    },
+    {
+      "id": "186",
+      "upazilla_id": "186",
+      "upazilla_name": "Kuliarchar",
+      "police_num": "01320156192",
+      "hospital_num": "01799567009",
+      "fire_service": "01901024024",
+      "bus_station": "01735631075",
+      "pharmacy": "01632502301"
+    },
+    {
+      "id": "187",
+      "upazilla_id": "187",
+      "upazilla_name": "Mithamain",
+      "police_num": "01320156193",
+      "hospital_num": "01799567010",
+      "fire_service": "01901024025",
+      "bus_station": "01735631076",
+      "pharmacy": "01632502302"
+    },
+    {
+      "id": "188",
+      "upazilla_id": "188",
+      "upazilla_name": "Nikli",
+      "police_num": "01320156194",
+      "hospital_num": "01799567011",
+      "fire_service": "01901024026",
+      "bus_station": "01735631077",
+      "pharmacy": "01632502303"
+    },
+    {
+      "id": "189",
+      "upazilla_id": "189",
+      "upazilla_name": "Pakundia",
+      "police_num": "01320156195",
+      "hospital_num": "01799567012",
+      "fire_service": "01901024027",
+      "bus_station": "01735631078",
+      "pharmacy": "01632502304"
+    },
+    {
+      "id": "190",
+      "upazilla_id": "190",
+      "upazilla_name": "Tarail",
+      "police_num": "01320156196",
+      "hospital_num": "01799567013",
+      "fire_service": "01901024028",
+      "bus_station": "01735631079",
+      "pharmacy": "01632502305"
+    },
+    {
+      "id": "191",
+      "upazilla_id": "191",
+      "upazilla_name": "Madaripur Sadar",
+      "police_num": "01320156197",
+      "hospital_num": "01799567014",
+      "fire_service": "01901024029",
+      "bus_station": "01735631080",
+      "pharmacy": "01632502306"
+    },
+    {
+      "id": "192",
+      "upazilla_id": "192",
+      "upazilla_name": "Kalkini",
+      "police_num": "01320156198",
+      "hospital_num": "01799567015",
+      "fire_service": "01901024030",
+      "bus_station": "01735631081",
+      "pharmacy": "01632502307"
+    },
+    {
+      "id": "193",
+      "upazilla_id": "193",
+      "upazilla_name": "Rajoir",
+      "police_num": "01320156199",
+      "hospital_num": "01799567016",
+      "fire_service": "01901024031",
+      "bus_station": "01735631082",
+      "pharmacy": "01632502308"
+    },
+    {
+      "id": "194",
+      "upazilla_id": "194",
+      "upazilla_name": "Shibchor",
+      "police_num": "01320156200",
+      "hospital_num": "01799567017",
+      "fire_service": "01901024032",
+      "bus_station": "01735631083",
+      "pharmacy": "01632502309"
+    },
+    {
+      "id": "195",
+      "upazilla_id": "195",
+      "upazilla_name": "Manikganj Sadar",
+      "police_num": "01320156201",
+      "hospital_num": "01799567018",
+      "fire_service": "01901024033",
+      "bus_station": "01735631084",
+      "pharmacy": "01632502310"
+    },
+    {
+      "id": "196",
+      "upazilla_id": "196",
+      "upazilla_name": "Singair",
+      "police_num": "01320156202",
+      "hospital_num": "01799567019",
+      "fire_service": "01901024034",
+      "bus_station": "01735631085",
+      "pharmacy": "01632502311"
+    },
+    {
+      "id": "197",
+      "upazilla_id": "197",
+      "upazilla_name": "Sibalay",
+      "police_num": "01320156203",
+      "hospital_num": "01799567020",
+      "fire_service": "01901024035",
+      "bus_station": "01735631086",
+      "pharmacy": "01632502312"
+    },
+    {
+      "id": "198",
+      "upazilla_id": "198",
+      "upazilla_name": "Saturia",
+      "police_num": "01320156204",
+      "hospital_num": "01799567021",
+      "fire_service": "01901024036",
+      "bus_station": "01735631087",
+      "pharmacy": "01632502313"
+    },
+    {
+      "id": "199",
+      "upazilla_id": "199",
+      "upazilla_name": "Harirampur",
+      "police_num": "01320156205",
+      "hospital_num": "01799567022",
+      "fire_service": "01901024037",
+      "bus_station": "01735631088",
+      "pharmacy": "01632502314"
+    },
+    {
+      "id": "200",
+      "upazilla_id": "200",
+      "upazilla_name": "Ghior",
+      "police_num": "01320156206",
+      "hospital_num": "01799567023",
+      "fire_service": "01901024038",
+      "bus_station": "01735631089",
+      "pharmacy": "01632502315"
+    }
+  ]
+  
