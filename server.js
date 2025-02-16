@@ -6,7 +6,6 @@ import { config } from "dotenv";
 import cors from "cors";
 config();
 
-app.use(cors());
 const app = express();
 const PORT = process.env.PORT || 3000;
 
@@ -39,7 +38,7 @@ const upazilas = readJSONFile(upazilasFilePath);
 app.listen(PORT, () => {
   console.log(`App started at http://localhost:${PORT}`);
 });
-
+app.use(cors());
 // ✅ Route for home
 app.get("/", (req, res) => {
   return res.status(200).json({
