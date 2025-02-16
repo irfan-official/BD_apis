@@ -3,8 +3,10 @@ import path from "path";
 import { fileURLToPath } from "url"; // ✅ Fix for Windows path issue
 import express from "express";
 import { config } from "dotenv";
+import cors from "cors";
 config();
 
+app.use(cors());
 const app = express();
 const PORT = process.env.PORT || 3000;
 
@@ -55,8 +57,9 @@ app.get("/api/bd.district", (req, res) => {
 app.get("/api/bd.division", (req, res) => {
   return res.status(200).json(division);
 });
-app.get("/api/bd.postcode", (req, res) => {`
-  return res.status(200).json(postcode);`
+app.get("/api/bd.postcode", (req, res) => {
+  `
+  return res.status(200).json(postcode);`;
 });
 app.get("/api/bd.upazilas", (req, res) => {
   return res.status(200).json(upazilas);
