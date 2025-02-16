@@ -4,6 +4,7 @@ import { fileURLToPath } from "url"; // ✅ Fix for Windows path issue
 import express from "express";
 import { config } from "dotenv";
 import cors from "cors";
+
 config();
 
 const app = express();
@@ -35,10 +36,9 @@ const division = readJSONFile(divisionFilePath);
 const postcode = readJSONFile(postcodeFilePath);
 const upazilas = readJSONFile(upazilasFilePath);
 
-app.listen(PORT, () => {
-  console.log(`App started at http://localhost:${PORT}`);
-});
+// ✅ CORS Middleware should be **before** defining routes
 app.use(cors());
+
 // ✅ Route for home
 app.get("/", (req, res) => {
   return res.status(200).json({
@@ -49,7 +49,7 @@ app.get("/", (req, res) => {
   });
 });
 
-// ✅ Route for API data
+// ✅ Routes for API data
 app.get("/api/bd.district", (req, res) => {
   return res.status(200).json(district);
 });
@@ -57,9 +57,13 @@ app.get("/api/bd.division", (req, res) => {
   return res.status(200).json(division);
 });
 app.get("/api/bd.postcode", (req, res) => {
-  `
-  return res.status(200).json(postcode);`;
+  return res.status(200).json(postcode); // ❌ Removed accidental template string
 });
 app.get("/api/bd.upazilas", (req, res) => {
   return res.status(200).json(upazilas);
+});
+
+// ✅ Start the server after setting up routes & middleware
+app.listen(PORT, () => {
+  console.log(`App started at http://localhost:${PORT}`);
 });
