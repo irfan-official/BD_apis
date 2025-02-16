@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import { fileURLToPath } from "url"; // ✅ Fix for Windows path issue
+import { fileURLToPath } from "url";
 import express from "express";
 import { config } from "dotenv";
 import cors from "cors";
@@ -8,7 +8,9 @@ import cors from "cors";
 config();
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+
+// ✅ Required for Vercel deployment
+export default app;
 
 // ✅ Convert `import.meta.url` to a proper file path
 const __filename = fileURLToPath(import.meta.url);
@@ -26,7 +28,7 @@ const readJSONFile = (filePath) => {
     return JSON.parse(fs.readFileSync(filePath, "utf8"));
   } catch (error) {
     console.error(`Error reading file ${filePath}:`, error.message);
-    return null; // Return `null` instead of crashing
+    return null;
   }
 };
 
@@ -36,10 +38,11 @@ const division = readJSONFile(divisionFilePath);
 const postcode = readJSONFile(postcodeFilePath);
 const upazilas = readJSONFile(upazilasFilePath);
 
-// ✅ CORS Middleware should be **before** defining routes
+// ✅ Middleware
 app.use(cors());
+app.use(express.json()); // Optional for handling JSON requests
 
-// ✅ Route for home
+// ✅ Routes
 app.get("/", (req, res) => {
   return res.status(200).json({
     districts: district || [],
@@ -49,7 +52,6 @@ app.get("/", (req, res) => {
   });
 });
 
-// ✅ Routes for API data
 app.get("/api/bd.district", (req, res) => {
   return res.status(200).json(district);
 });
@@ -57,13 +59,8 @@ app.get("/api/bd.division", (req, res) => {
   return res.status(200).json(division);
 });
 app.get("/api/bd.postcode", (req, res) => {
-  return res.status(200).json(postcode); // ❌ Removed accidental template string
+  return res.status(200).json(postcode);
 });
 app.get("/api/bd.upazilas", (req, res) => {
   return res.status(200).json(upazilas);
-});
-
-// ✅ Start the server after setting up routes & middleware
-app.listen(PORT, () => {
-  console.log(`App started at http://localhost:${PORT}`);
 });
